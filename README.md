@@ -6,3 +6,6 @@ Here are my small projects on Python
 3. [file.py](file.py) - working with files
 4. [solution.py](solution.py) - class for reading files
 5. [storage.py](storage.py) - storage for keys and values using argparse
+6. [friends.py](friends.py) - work with VK API
+7. [currency.py](currency.py) - parsing exchange rates with BeautifulSoup from Bank of Russia
+8. [currency_api](currency_api.py) - parsing exchange rates using Bank of Russia API 
